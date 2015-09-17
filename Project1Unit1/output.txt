@@ -1,0 +1,50 @@
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+Color - Fort Knox Gold Clearcoat Metallic, Liquid Grey Clearcoat Metallic, Infra-Red Clearcoat, Grabber Green Clearcoat Metallic, Sangria Red Clearcoat Metallic, French Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, CD Silver Clearcoat Metallic, Pitch Black Clearcoat, Cloud 9 White Clearcoat
+Transmission - automatic, manual
+Brakes/Traction Control - Standard, ABS, ABS with Advance Trac
+Side Impact Air Bags - selected, none
+Power Moonroof - selected, none
+-------------------
+Deserialize object Ford:
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+Color - Fort Knox Gold Clearcoat Metallic, Liquid Grey Clearcoat Metallic, Infra-Red Clearcoat, Grabber Green Clearcoat Metallic, Sangria Red Clearcoat Metallic, French Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, CD Silver Clearcoat Metallic, Pitch Black Clearcoat, Cloud 9 White Clearcoat
+Transmission - automatic, manual
+Brakes/Traction Control - Standard, ABS, ABS with Advance Trac
+Side Impact Air Bags - selected, none
+Power Moonroof - selected, none
+Model Name: Toyota
+Base Price: 1844.0
+OptionSets: 
+Color - Gold Clearcoat Metallic, Grey Clearcoat Metallic, Red Clearcoat, Green Clearcoat Metallic, Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, Silver Clearcoat Metallic
+Transmission - automatic, manual
+Brakes/Traction Control - Standard, ABS, ABS with Advance Trac
+-------------------
+Deserialize object Toyota:
+Model Name: Toyota
+Base Price: 1844.0
+OptionSets: 
+Color - Gold Clearcoat Metallic, Grey Clearcoat Metallic, Red Clearcoat, Green Clearcoat Metallic, Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, Silver Clearcoat Metallic
+Transmission - automatic, manual
+Brakes/Traction Control - Standard, ABS, ABS with Advance Trac
+-------------------
+Delete Option : ABS
+Brakes/Traction Control - Standard, ABS with Advance Trac
+-------------------
+Update Option:Fort Knox Gold Clearcoat Metallic
+Color - Gold, Liquid Grey Clearcoat Metallic, Infra-Red Clearcoat, Grabber Green Clearcoat Metallic, Sangria Red Clearcoat Metallic, French Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, CD Silver Clearcoat Metallic, Pitch Black Clearcoat, Cloud 9 White Clearcoat
+-------------------
+Update Option Color
+Color - Yellow, Dark
+-------------------
+Delete Option : Color
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+Transmission - automatic, manual
+Brakes/Traction Control - Standard, ABS with Advance Trac
+Side Impact Air Bags - selected, none
+Power Moonroof - selected, none
