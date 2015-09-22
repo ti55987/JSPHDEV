@@ -1,0 +1,18 @@
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+Color - Fort Knox Gold Clearcoat Metallic, Liquid Grey Clearcoat Metallic, Infra-Red Clearcoat, Grabber Green Clearcoat Metallic, Sangria Red Clearcoat Metallic, French Blue Clearcoat Metallic, Twilight Blue, Clearcoat Metallic, CD Silver Clearcoat Metallic, Pitch Black Clearcoat, Cloud 9 White Clearcoat, 
+Transmission - automatic, manual, 
+Brakes/Traction Control - Standard, ABS, ABS with Advance Trac, 
+Side Impact Air Bags - selected, none, 
+Power Moonroof - selected, none, 
+-------------------
+User Choice Set: 
+Color: Twilight Blue
+Transmission: manual
+Brakes/Traction Control: ABS
+Side Impact Air Bags: none
+Power Moonroof: selected
+
+Total price: 18625.0
+-------------------
