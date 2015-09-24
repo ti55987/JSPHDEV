@@ -39,9 +39,7 @@ public class ProxyDriver
 		auto2.updateOptionPrice("2016 Camry", "Transmission", 
 										"automatic", 200);
 		auto.printAuto("2016 Camry");
-		
-		
-		
+	
 		auto.BuildAuto("./testcases/MissingFile.txt");
 		auto.BuildAuto("./testcases/Negative_BasePrice.txt");
 		auto.BuildAuto("./testcases/MissingOption.txt");
