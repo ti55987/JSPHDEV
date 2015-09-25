@@ -1,0 +1,28 @@
+Build Ford Wagon ZTW ...
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+Color - Fort Knox Gold Clearcoat Metallic(0.0), Liquid Grey Clearcoat Metallic(0.0), Infra-Red Clearcoat(0.0), Grabber Green Clearcoat Metallic(0.0), Sangria Red Clearcoat Metallic(0.0), French Blue Clearcoat Metallic(0.0), Twilight Blue(0.0), Clearcoat Metallic(0.0), CD Silver Clearcoat Metallic(0.0), Pitch Black Clearcoat(0.0), Cloud 9 White Clearcoat(0.0), 
+Transmission - automatic(500.0), manual(-815.0), 
+Brakes/Traction Control - Standard(0.0), ABS(400.0), ABS with Advance Trac(1625.0), 
+Side Impact Air Bags - selected(350.0), none(0.0), 
+Power Moonroof - selected(595.0), none(0.0), 
+-------------------
+
+[Try Update]
+-->Update from: Color
+[Try Update]
+-->Update from: t1Color to: t2Color
+ to: t1Color
+
+[Try Update]
+-->Update price to: 19.0 of option: Transmission.automatic
+Model Name: Focus Wagon ZTW
+Base Price: 18445.0
+OptionSets: 
+t1Color - Fort Knox Gold Clearcoat Metallic(0.0), Liquid Grey Clearcoat Metallic(0.0), Infra-Red Clearcoat(0.0), Grabber Green Clearcoat Metallic(0.0), Sangria Red Clearcoat Metallic(0.0), French Blue Clearcoat Metallic(0.0), Twilight Blue(0.0), Clearcoat Metallic(0.0), CD Silver Clearcoat Metallic(0.0), Pitch Black Clearcoat(0.0), Cloud 9 White Clearcoat(0.0), 
+Transmission - automatic(19.0), manual(-815.0), 
+Brakes/Traction Control - Standard(0.0), ABS(400.0), ABS with Advance Trac(1625.0), 
+Side Impact Air Bags - selected(350.0), none(0.0), 
+Power Moonroof - selected(595.0), none(0.0), 
+-------------------
